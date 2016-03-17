@@ -1,6 +1,6 @@
 <?php return [
     'baseUrl' => 'https://api.smartsheet.com',
-    'apiVersion' => '1.1',
+    'apiVersion' => '2.0',
     'operations' => [
         'ListUsers' => [
             'httpMethod' => 'GET',
