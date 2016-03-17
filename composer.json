@@ -1,4 +1,5 @@
 {
+  "silinternational/smartsheet-php-client": "dev-master"
   "name": "silinternational/smartsheet-php-client",
   "type": "library",
   "description": "PHP client library for interacting with Smartsheet API",
